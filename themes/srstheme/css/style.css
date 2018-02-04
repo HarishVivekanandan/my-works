@@ -1,0 +1,60 @@
+/**
+ * This file will be overwritten when the Bootstrap Framework source files
+ * are compiled using the LESS CSS pre-processor.
+ */
+
+.navbar-right
+{
+    margin-top: -50px;
+}
+.aboutuscss1 p{
+	text-align: center;
+    background-color: #4a6379;
+    padding: 5%;
+    color: white;
+}
+.aboutuscss1 h3{
+	text-align: center;
+    font-size: xx-large;
+}
+.aboutuscss2{
+    width: 80%;
+    padding: 5% 0;
+}
+.aboutuscss3{
+	background-color: #4a6378;
+    color: white;
+    padding: 5% 30%;
+    text-align: center;
+}
+#block-views-block-home-women-block-1 .block-title{
+    text-align: center;
+}
+#block-views-block-top-rated-for-women-block-1 .block-title{
+	text-align: center;
+}
+#superfish-main{
+	    padding: 5px;
+}
+#block-aboutus, #block-help, #block-shopby, #block-followus{
+    width: 25%;
+    float: left;
+}
+#block-aboutus h2, #block-help h2, #block-shopby h2, #block-followus h2
+{
+	font-size: 15px;
+}
+#block-aboutus li, #block-help li, #block-shopby li, #block-followus li
+{
+line-height: 1px;
+}
+.footer{
+margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    border-top: 1px solid #E5E5E5;
+}
+.secondary_footer
+{
+	    border-top: 1px solid #E5E5E5;
+}
